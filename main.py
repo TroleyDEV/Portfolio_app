@@ -15,3 +15,5 @@ with col2:
     I look forward to learning and growing in the field, with the ultimate goal of crafting engaging and innovative gaming experiences in the future.
     """
     st.info(content)
+
+st.write("Below you can find some of the apps i have built in Python.")
